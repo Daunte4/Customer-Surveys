@@ -40,12 +40,12 @@ namespace Survey
                 switch (leave)
                 {
                     case "1":
-                        Console.WriteLine("you chose Yes.");
+                        Console.WriteLine("your choice was Yes.");
                         check = true;
                         break;
                         
                     case "2":
-                        Console.WriteLine("you chose No.");
+                        Console.WriteLine("youe choice was No.");
                         check = true;
                         break;
 
