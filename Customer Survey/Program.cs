@@ -43,7 +43,7 @@ namespace Survey
                         Console.WriteLine("you chose Yes.");
                         check = true;
                         break;
-
+                        
                     case "2":
                         Console.WriteLine("you chose No.");
                         check = true;
